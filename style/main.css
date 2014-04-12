@@ -334,7 +334,7 @@ hr {
     font-size: 0px;}
     @media screen and (max-width: 520px) {
       .tile.tile-4 .tile-inner {
-        background: url('../tile-sets/CCeH/2@4.jpg');
+        background: url('../tile-sets/CCeH/4@25.jpg');
         font-size: 0px; } }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
@@ -343,7 +343,7 @@ hr {
     font-size: 0px;}
     @media screen and (max-width: 520px) {
       .tile.tile-8 .tile-inner {
-        background: url('../tile-sets/CCeH/2@8.jpg');
+        background: url('../tile-sets/CCeH/8@25.jpg');
         font-size: 0px; } }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
